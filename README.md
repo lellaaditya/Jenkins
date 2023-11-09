@@ -6,3 +6,5 @@ vim /etc/hosts -> Update the http://localhost:8080 to other as below
 
 ls --only-dirs
 .Jenkins Folder --> tree jobs workspace
+
+Artifact --> source that Continue present to upcoming builds
