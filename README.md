@@ -15,3 +15,6 @@ https://github.com/jenkins-getting-started/docker-assembly-line/blob/master/Jenk
 https://github.com/g0t4
 
 https://github.com/devbyaccident/azure-voting-app-redis
+
+
+<img width="608" alt="image" src="https://github.com/lellaaditya/Jenkins/assets/139613275/9d1d425b-eb9d-441f-a626-0a8dc3fabca4">
