@@ -13,3 +13,5 @@ Artifact --> source that Continue present to upcoming builds
 https://github.com/jenkins-getting-started/docker-assembly-line/blob/master/Jenkinsfile
 
 https://github.com/g0t4
+
+https://github.com/devbyaccident/azure-voting-app-redis
